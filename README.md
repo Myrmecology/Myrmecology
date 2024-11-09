@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Justin, I'm interested in all things JavaScript & Data Science!
+
+🔭 I’m currently working on JavaScript coding
+- 🌱 I’m currently learning JavaScript
+-   👯 I’m looking to collaborate on coding projects 
 
 
 <!--
