@@ -2,11 +2,15 @@
 
 My name is Justin, I'm interested in all things JavaScript & Data Science!
 
-🔭 I’m currently working on JavaScript coding
-- 🌱 I’m currently learning JavaScript
--   👯 I’m looking to collaborate on coding projects 
+Technologies I work with:
+💻 Technologies: JavaScript, TypeScript, HTML, CSS, MongoDB, Express.js, React.js, Node.js, GIT, PostgreSQL, MySQL, Java, Tailwind CSS, Bootstrap, jQuery, and 6502 Assembler 
 
 
+My passions:
+🌱 Exploring the latest in MERN development
+🔬 Diving into scientific research and how technology can enhance our understanding of the world
+💡 Continuously learning and experimenting with new programming techniques
+🧑‍💻 Contributing to open-source projects and collaborating with like-minded developers
 <!--
 **Myrmecology/Myrmecology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
