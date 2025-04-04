@@ -3,7 +3,7 @@
 My name is Justin, I'm interested in all things JavaScript & Data Science!
 
 Technologies I work with:
-💻 Technologies: JavaScript, TypeScript, HTML, CSS, MongoDB, Express.js, React.js, Node.js, GIT, PostgreSQL, MySQL, Java, Tailwind CSS, C++, Bootstrap, jQuery, and 6502 Assembler 
+💻 Technologies: JavaScript, TypeScript, HTML, CSS, MongoDB, Express.js, React.js, Node.js, GIT, PostgreSQL, MySQL, Java, Tailwind CSS, C++, Bootstrap, jQuery, Python and 6502 Assembler 
 
 
 My passions:
