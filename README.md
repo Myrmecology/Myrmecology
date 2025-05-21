@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Justin, I'm interested in all things computer science, my passion is C++ and Python
+My name is Justin, I'm interested in all things computer science, my passion is C++, Python and RUST.
 
 Technologies I work with:
 💻 Technologies: JavaScript, TypeScript, HTML, CSS, MongoDB, Express.js, React.js, Node.js, GIT, PostgreSQL, MySQL, Java, Tailwind CSS, C++, Bootstrap, jQuery, Python and 6502 Assembler 
