@@ -1,27 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Justin
 
-My name is Justin, I'm interested in all things computer science, my passion is C++, Python and RUST.
+I'm a systems-oriented developer with a deep interest in all facets of computer science. My primary language of choice is **Rust**, which I leverage for its safety, performance, and modern design. I also work extensively with **C++** and **Python**, especially in performance-critical, scientific, and systems-level contexts.
 
-Technologies I work with:
-💻 Technologies: JavaScript, TypeScript, HTML, CSS, MongoDB, Express.js, React.js, Node.js, GIT, PostgreSQL, MySQL, Java, Tailwind CSS, C++, Bootstrap, jQuery, Python and 6502 Assembler 
+---
 
+## 🧠 Areas of Focus
 
-My passions:
-🌱 Exploring the latest in MERN development
-🔬 Diving into scientific research and how technology can enhance our understanding of the world
-💡 Continuously learning and experimenting with new programming techniques
-🧑‍💻 Contributing to open-source projects and collaborating with like-minded developers
-<!--
-**Myrmecology/Myrmecology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Systems Programming**: Building performant, reliable software with Rust and C++
+- **Scientific Computing**: Exploring how code can push the boundaries of research and analysis
+- **Open Source Collaboration**: Contributing to projects that improve the developer ecosystem
+- **Modern Web Technologies**: Prototyping full-stack applications using JavaScript/TypeScript and the MERN stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Work With
+
+**Languages & Frameworks**  
+Rust • C++ • Python • JavaScript • TypeScript • Java • HTML/CSS • 6502 Assembly
+
+**Web & Full-Stack Development**  
+Node.js • Express.js • React.js • MongoDB • PostgreSQL • MySQL • Tailwind CSS • Bootstrap • jQuery
+
+**Tools & Platforms**  
+Git • Linux • VS Code • Bash • Docker (familiar) • GitHub Actions (exploring)
+
+---
+
+## 🌱 Always Learning
+
+I'm constantly exploring the intersection of low-level engineering and high-level design. Whether it’s dissecting a CPU architecture, contributing to open source, or experimenting with modern web frameworks, I'm driven by curiosity and precision.
+
+---
+
+Feel free to connect or collaborate!
+
