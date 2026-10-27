@@ -32,5 +32,5 @@ I'm constantly exploring the intersection of low-level engineering and high-leve
 
 ---
 
-Feel free to connect or collaborate!
+Computer science is my full time research. With computer science, I enjoy the integration of other facets of science such as chemistry, biology, quantum physics and deep thought. 
 
